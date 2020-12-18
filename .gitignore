@@ -1,3 +1,10 @@
+.DS_Store
+GoogleLocalCreds.json
+src/.DS_Store
+src/GoogleLocalCreds.json
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
