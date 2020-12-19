@@ -2,12 +2,20 @@ from newspaper import Article
 import re
 import pandas as pd
 
+import argparse
+import io
+import json
+import os
+import requests
+
+from google.cloud import language_v1
+import numpy
+import six
 
 
-columns = ['title','publish_date', 'authors', 'url', 'keywords', 'summary', 'word_count', 'category']
+
+columns = ['title','publish_date', 'authors', 'url', 'keywords', 'summary', 'word_count', 'category', 'category_confidence', 'category_alt', 'category_alt_confidence']
 data_df = pd.DataFrame(columns=columns)
-
-
 # best regex finder https://www.regextester.com/96504
 
 article_list = []
@@ -37,45 +45,36 @@ for article_num, article_url in enumerate(article_list):
         print("unable to process")
 
 
-# get categories from google API
-import argparse
-import io
-import json
-import os
-import requests
-
-from google.cloud import language_v2
-import numpy
-import six
-
-
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.path.join('.', "GoogleLocalCreds.json")
 language_client = language_v1.LanguageServiceClient()
 
 def classify(text, verbose=True):
-    """Classify the input text into categories. """
-    document = language_v1.Document(
-        content=text, type_=language_v1.Document.Type.HTML
-    )
+        """Classify the input text into categories. """
+    document = language_v1.Document(content=text, type_=language_v1.Document.Type.HTML)
     response = language_client.classify_text(request={'document': document})
     categories = response.categories
     result = {}
     for category in categories:
-        # Turn the categories into a dictionary of the form:
-        # {category.name: category.confidence}, so that they can
-        # be treated as a sparse vector.
         result[category.name] = category.confidence
-    if verbose:
-        print(text)
-        for category in categories:
-            print(u"=" * 20)
-            print(u"{:<16}: {}".format("category", category.name))
-            print(u"{:<16}: {}".format("confidence", category.confidence))
     return result
 
-article_url = 'https://www.oedigital.com/news/483611-ifrog-robot-for-cleaning-and-inspection-of-offshore-wind-monopiles-completes-trials'
-r = requests.get(article_url)
-# r.text
-cat_response = classify(r.text)
+
+for rownum, row in data_df.iterrows():
+    """Loop through articles and get categories"""
+    print(row['url'])
+    try:
+        r = requests.get(row['url'])
+        category = classify(r.text)
+        print(category)
+        if len(category) == 1:
+            data_df.loc[rownum, 'category'] = list(category.keys())[0]
+            data_df.loc[rownum, 'category_confidence'] = list(category.values())[0]
+        else:
+            data_df.loc[rownum, 'category'] = list(category.keys())[0]
+            data_df.loc[rownum, 'category_confidence'] = list(category.values())[0]
+            data_df.loc[rownum, 'category_alt'] = list(category.keys())[1]
+            data_df.loc[rownum, 'category_alt_confidence'] = list(category.values())[1]
+    except:
+        next
 
 data_df.to_csv('data_df.csv', index=False)

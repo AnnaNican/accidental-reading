@@ -1,3 +1,173 @@
+- [Chasing the Pixel-Perfect Dream · Josh W Comeau](https://joshwcomeau.com/css/pixel-perfection/)
+- [Dignity is a useless concept](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC300789/)
+- [The flying car is here – and it could change the world - BBC Future](https://www.bbc.com/future/article/20201111-the-flying-car-is-here-vtols-jetpacks-and-air-taxis)
+- ReadMonolyth to Microservices
+- [How to Design Programs, Second Edition](https://htdp.org/2018-01-06/)
+- [No Silver Bullet - Wikipedia](https://en.wikipedia.org/wiki/No_Silver_Bullet)
+- The unreasonable effectiveness of mathematics: [The Unreasonable Effectiveness of Mathematics in the Natural Sciences](http://www.dartmouth.edu/~matc/MathDrama/reading/Hamming.html)
+- Shape of design: https://shapeofdesignbook.com/download/tsod-1.01.pdf
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- Learning by doing: [What-We-Learn-When-We-Learn-by-Doing](https://www.rogerschank.com/What-We-Learn-When-We-Learn-by-Doing)
+- https://www.nytimes.com/2020/06/15/us/politics/gorsuch-supreme-cou1rt-gay-transgender-rights.html
+- Laws of UX: [Home | Laws of UX](https://lawsofux.com/)
+- All Maps Lie: [All Maps Lie - 2020 | Course Website](https://all-maps-lie-2020.netlify.app/#/)
+- [Steven Pinker: AI in the Age of Reason | MIT | Artificial Intelligence Podcast](https://lexfridman.com/steven-pinker/)
+- The book of Shaders: [The Book of Shaders](https://thebookofshaders.com/)
+- Learning by doing: [What-We-Learn-When-We-Learn-by-Doing](https://www.rogerschank.com/What-We-Learn-When-We-Learn-by-Doing)
+- Advanced Creative coding: [advanced-creative-coding/Week01 at master · katsully/advanced-creative-coding · GitHub](https://github.com/katsully/advanced-creative-coding/tree/master/Week01)
+- earth a primer: [Earth Primer](https://www.earthprimer.com/)
+- Read distill interactiv  ML articles: [Distill is dedicated to making machine learning clear and dynamic](https://distill.pub/about/)
+- dimensionality reduction: [The Beginner’s Guide to Dimensionality Reduction](https://idyll.pub/post/dimensionality-reduction-293e465c2a3443e8941b016d/)
+- read about people who contributed to programming: https://wiki.c2.com/?PeopleIndex
+- [The revolutionary chipmaker: Your guide to TSMC – Rest of World](https://restofworld.org/2020/taiwan-chipmaker-guide-to-tsmc/)
+- [Tour of the D3 ecosystem | FlowingData](https://flowingdata.com/2020/11/11/tour-of-the-d3-ecosystem/)
+On system design:
+- [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
+- [GitHub - madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.](https://github.com/madd86/awesome-system-design)
+- On particle physics: [On Particle Physics](https://parametric.press/issue-01/on-particle-physics/)
+- [Hacker Noon](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4)
+- Leaned sorted algorythm: [The case for a learned sorting algorithm | the morning paper](https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/)
+- Emerging data infrastructures: [Emerging Architectures for Modern Data Infrastructure](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_308)
+- Python for feature film: [Python For Feature Film](https://www.gfx.dev/python-for-feature-film)
+- Learning to code: [Play the long game when learning to code. - Stack Overflow Blog](https://stackoverflow.blog/2020/10/05/play-the-long-game-when-learning-to-code/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter)
+- Contribute to open source: [How To Contribute To Open-Source Projects As A Beginner](https://catalins.tech/how-to-contribute-to-open-source-projects-as-a-beginner)
+- 30 years of American anxieties: [30 Years of American Anxieties](https://pudding.cool/2018/11/dearabby/)
+- Math library of the future: [The Effort to Build the Mathematical Library of the Future | WIRED](https://www.wired.com/story/the-effort-to-build-the-mathematical-library-of-the-future/)
+- Frailest thing: [The Frailest Thing: Ten Years of Thinking About the Meaning of Technology](https://gumroad.com/l/CWRfq)
+- About Vaporfly: [The Science Behind Nike’s New ZoomX Vaporfly Next% Marathon Shoe | WIRED](https://www.wired.com/story/the-science-behind-nikes-new-vaporfly-next-marathon-shoe/?mc_cid=6cbb06bc67&mc_eid=e7c75333ad)
+- Beyond Pleasure Principle Freud: https://www.libraryofsocialscience.com/assets/pdf/freud_beyond_the_pleasure_principle.pdf
+- Software dependency problem: [research!rsc: Our Software Dependency Problem](https://research.swtch.com/deps)
+- [Unsupported Browser](https://www.hoopladigital.com/browse/movie/popular?page=1)
+- Wood handbook: https://www.fpl.fs.fed.us/documnts/fplgtr/fpl_gtr190.pdf
++ MOMA classes: [Online courses | MoMA](https://www.moma.org/research-and-learning/classes)
+- On color:[Visualizing Science: How Color Determines What We See - Eos](https://eos.org/features/visualizing-science-how-color-determines-what-we-see?utm_campaign=Data_Elixir&utm_source=Data_Elixir_287)
+- Lindy effect: [An Expert Called Lindy. Don’t eat their cheesecake–… | by Nassim Nicholas Taleb | INCERTO | Medium](https://medium.com/incerto/an-expert-called-lindy-fdb30f146eaf)
+- [Ken Wallis - Wikipedia](https://en.wikipedia.org/wiki/Ken_Wallis?mc_cid=843d068cc8&mc_eid=e7c75333ad)
+- [The robotics revolution is here, and it’s changing how we live](https://www.nationalgeographic.com/magazine/2020/09/the-robot-revolution-has-arrived-feature/)
+- And by Dan Abramov: [Overreacted — A blog by Dan Abramov](https://overreacted.io/)
+- Literary tourist part 2: [Grolier, Koch, Kidd, Horowitz, Budman & Oklahoma! -](http://literarytourist.org/2020/04/02/grolier-koch-kidd-horowitz-budman-oklahoma/) and this [Literary Traveler, Literary Tours, Travel Writing, Travel Literature, Luxury Travel, Travel, Hemingway](https://www.literarytraveler.com/)
+- Read ITP diary: [Posts](http://blog.playdo.io/posts/)
+- Rise of expert ebgginer: [How Developers Stop Learning: Rise of the Expert Beginner - DaedTech](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/?utm_source=hackernewsletter&utm_medium=email&utm_term=code)
+- Apple SSL Bug: [Reflections on Curly Braces - Apple’s SSL Bug and What We Should Learn From It - codecentric AG Blog](https://blog.codecentric.de/en/2014/02/curly-braces/)
+- Wharton resources: [Penn Alumni - Virtual & Digital Resources](https://www.alumni.upenn.edu/s/1587/gid2/16/start_alt.aspx?sid=1587&gid=2&sitebuilder=1&pgid=29488)
+- [(PDF) Inducing Illusory Ownership of a Virtual Body](https://www.researchgate.net/publication/40688634_Inducing_Illusory_Ownership_of_a_Virtual_Body)
++ On book binders: [Reminiscences of a Bookbinder | The Metropolitan Museum of Art](https://www.metmuseum.org/blogs/in-circulation/2020/history-of-book-conservation?utm_medium=email&utm_source=Museum&utm_campaign=2020_0421_Met_Blogs&cs=)
+- Theory of beauty and low complexity art: [THEORY OF BEAUTY - FACIAL ATTRACTIVENESS - LOW-COMPLEXITY ART](http://people.idsia.ch/~juergen/beauty.html)
+- [Robotics in Architecture and Construction: An Industry Shift | Thought Leadership | HMC Architects](https://hmcarchitects.com/news/robotics-in-architecture-and-construction-an-industry-shift-2019-10-23/)
+- Backpropagation 101: [Backpropagation 101 · Thinc  · A refreshing functional take on deep learning](https://thinc.ai/docs/backprop101?utm_campaign=Data_Elixir&utm_source=Data_Elixir_282)
+- https://medium.com/slalom-build/chasing-the-holy-grail-bbc0b7cce365
+- Essay by David Foster Wallace: https://harpers.org/wp-content/uploads/2008/09/HarpersMagazine-1996-01-0007859.pdf
+- Essays by E/B. White: [E. B. White - Wikipedia](https://en.wikipedia.org/wiki/E._B._White)
+- How to make electrically functioning textiles: https://honnet.github.io/publications/CHI20-PolySense_demo.pdf
+- Conscious Computing: [Conscious Computing – Linda Stone](https://lindastone.net/2012/04/20/conscious-computing-36/)
+- Contemplative Computing: [(PDF) Contemplative Computing | Alex Soojung-Kim Pang - Academia.edu](https://www.academia.edu/635387/Contemplative_Computing)
+- Debugging by NASA: [Debugging a live saturn V | Brennan Moore](https://www.zamiang.com/post/debugging-a-live-saturn-v?mc_cid=2aa9972162&mc_eid=e7c75333ad)
+- ACM digital Library: [ACM Digital Library](https://dl.acm.org/)
+- Introduction to generative art: [An introduction to Generative Art: what it is, and how you make it](https://www.freecodecamp.org/news/an-introduction-to-generative-art-what-it-is-and-how-you-make-it-b0b363b50a70/)
+- Serverless: [What is Serverless? | The Power of Serverless](https://serverless.css-tricks.com/about/)
+- [Google launches TensorFlow Quantum, a machine learning framework for training quantum models | VentureBeat](https://venturebeat.com/2020/03/09/google-launches-tensorflow-quantum-a-machine-learning-framework-for-training-quantum-models/)
++ [“I Knew It Was Gonna Hit”: How Shaq’s Investments in Google, Lyft, and Ring Created a New Class of Venture Capitalists | Vanity Fair](https://www.vanityfair.com/news/2020/03/how-shaq-investment-in-google-lyft-ring-created-new-class-of-venture-capitalists)
+- Gears cool animation: [Gears – Bartosz Ciechanowski](https://ciechanow.ski/gears/?mc_cid=625376807a&mc_eid=e7c75333ad)
+- Chrome redesign UX: [Google Chrome redesigned with 2 radical UX principles](https://medium.muz.li/google-chrome-redesigned-with-2-radical-ux-principles-58b8c60406f5)
+- Rodney Brooks on robotics: [FoR&AI Future of Robotics and Artificial Intelligence – Rodney Brooks](http://rodneybrooks.com/forai-future-of-robotics-and-artificial-intelligence/)
+- Handbook of Human Knowledge: https://dai.fmph.uniba.sk/~sefranek/kri/handbook/handbook_of_kr.pdf
+- Introduction to Information retrieval: [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+- Front-end masters handbook: [Learn State Management · Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/learning/state.html)
+- Adult Entertainment: [Programming in the Adult Entertainment Industry is Broken - DEV Community 👩‍💻👨‍💻](https://dev.to/jwoertink/programming-in-the-adult-entertainment-industry-is-broken-hgn?mc_cid=a3c07a2505&mc_eid=e7c75333ad)
+- Quantum Physics: [How to Make Sense of Quantum Physics - Issue 83: Intelligence - Nautilus](http://nautil.us/issue/83/intelligence/how-to-make-sense-of-quantum-physics)
+- Computational Fairytales: [Computational Fairy Tales](http://computationaltales.blogspot.com/)
+- histagrams and density plots: [Histograms and Density Plots in Python - Towards Data Science](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
+- [2019 into 2020 – Tania Rascia](https://www.taniarascia.com/2019-into-2020/) - read her for inspiration
+- ML: research highlights from 2019: [10 ML & NLP Research Highlights of 2019](https://ruder.io/research-highlights-2019/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_266)
+- Anything by Elizabeth Spelke: [Elizabeth Spelke | The Verge 50](https://www.theverge.com/a/2014-verge-50/elizabeth-spelke)
+- The disappearance of space and time: [Fermat’s Library | The Disappearance of Space and Time annotated/explained version.](https://fermatslibrary.com/s/the-disappearance-of-space-and-time#email-newsletter)
+- ML at Ebay: [PyKrylov: Accelerating Machine Learning Research at eBay](https://tech.ebayinc.com/engineering/pykrylov-accelerating-machine-learning-research-at-ebay/)
+- ML in Python: [2002.04803 Machine Learning in Python: Main developments and technology trends in data science, machine learning, and artificial intelligence](https://arxiv.org/abs/2002.04803?utm_campaign=Data_Elixir&utm_source=Data_Elixir_272)
+- Responsive Images: [Responsive Images the Simple Way - Cloud Four](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
+- Google Research: [Google AI Blog: Google Research: Looking Back at 2019, and Forward to 2020 and Beyond](https://ai.googleblog.com/2020/01/google-research-looking-back-at-2019.html?utm_campaign=Data_Elixir&utm_source=Data_Elixir_267)
+- How phone camera works: [How Your Camera Works · objc.io](https://www.objc.io/issues/21-camera-and-photos/how-your-camera-works/?mc_cid=f14540f56a&mc_eid=e7c75333ad)
+- On robots: [Four Questions for Founders | Avar Robotics | New Lab](https://newlab.com/stories/four-questions-for-founders-avar-robotics/?utm_source=New+Lab+Mailing&utm_campaign=cdb21ea278-EMAIL_CAMPAIGN_2019_12_18_08_39_COPY_01&utm_medium=email&utm_term=0_07cdb9e194-cdb21ea278-209081881&mc_cid=cdb21ea278&mc_eid=ab04fb7a14)
+- Ironies of automation: [Ironies of automation – the morning paper](https://blog.acolyer.org/2020/01/08/ironies-of-automation/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_267)
+- Essential guide to electronics in Shenzhen: [The Essential Guide to Electronics in Shenzhen, Web Edition «  bunnie’s blog](https://www.bunniestudios.com/blog/?p=5689)
+- Code societies: http://sfpc.io/code-societies/
+- Paper about Dead Reckoning: [Fermat’s Library | Five Centuries of Dead Reckoning annotated/explained version.](https://fermatslibrary.com/s/five-centuries-of-dead-reckoning#email-newsletter)
+- [To fight disinformation, we need to weaponise the truth | WIRED UK](https://www.wired.co.uk/article/fix-disinformation-facts)
+- [Primer | Finding Everything New in the Harry Potter Universe](https://primer.ai/blog/finding-everything-new-in-the-harry-potter-universe/)
+- Design Patterns in Javascript: [Design Patterns in JavaScript](https://www.telerik.com/blogs/design-patterns-in-javascript)
+- Economics of AI: [The Economics of Artificial Intelligence Today](https://thegradient.pub/the-economics-of-ai-today/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_268)
+- Ntherlands and Agriculture - share with Miltiadis: [How the Dutch Use Architecture to Feed the World | ArchDaily](https://www.archdaily.com/932301/how-the-dutch-use-architecture-to-feed-the-world?mc_cid=381ea7cd0c&mc_eid=e7c75333ad)
+- Styled Components: [Styled Components, Styled Systems and How They Work | Rangle.io](https://rangle.io/blog/styled-components-styled-systems-and-how-they-work/)
+- [Samsung’s new Neon project is finally unveiled: It’s a humanoid AI chatbot - CNET](https://www.cnet.com/news/samsung-neon-project-finally-unveiled-humanoid-ai-chatbot-artificial-humans/)
+- How tech grows https://danwang.co/how-technology-grows/
+- NLP recipes: [GitHub - microsoft/nlp-recipes: Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes/)
+- how to take smart notes: [Kindle](https://read.amazon.com/kp/embed?asin=B06WVYW33Y&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_jlYoEb6ES4QJB&reshareId=87X7JVTGFKCK720FCNQ5&reshareChannel=system)
+- Understanding Maximum Likelihood: [Understanding Maximum Likelihood Estimation | R Psychologist](https://rpsychologist.com/d3/likelihood/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_272)
+- Data Engineering projects: [Five Interesting Data Engineering Projects - Dmitriy Ryaboy - Medium](https://medium.com/@squarecog/five-interesting-data-engineering-projects-48ffb9c9c501)
+- Sleep consultant: [The Sleep Consultant](https://desert.glass/archive/sleep-consultant/)
+- I thought it’s one project- but it’s actually different: [How big is that, though? | Chartable](https://blog.datawrapper.de/weekly-comparing-areas-on-maps/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_272)
+- Map of Mathematics: [Quanta Magazine](https://www.quantamagazine.org/the-map-of-mathematics-20200213/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_272) l
+- Belief driven data viz: [TheyDrawIt!: An Authoring Tool for Belief-Driven Visualization](https://medium.com/multiple-views-visualization-research-explained/theydrawit-an-authoring-tool-for-belief-driven-visualization-b3267a001480)
+- Live experiments for google: [AI Workshop  |  Google Cloud](https://cloud.google.com/ai-workshop/#experiments)
+- what does front-end does: [Does your web app need a front-end framework? - Stack Overflow Blog](https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/?utm_source=Iterable&utm_medium=email&utm_campaign=the_overflow_newsletter&utm_content=02-03-20)
++ Freeman Dyson: [Fermat’s Library | Birds and Frogs annotated/explained version.](https://www.fermatslibrary.com/s/birds-and-frogs#email-newsletter)
+- Feynmen [Fermat’s Library | Feynman’s proof of the Maxwell equations annotated/explained version.](https://www.fermatslibrary.com/s/feynmans-proof-of-the-maxwell-equations#email-newsletter)
+- open AI adversarial networks: [Attacking Machine Learning with Adversarial Examples](https://openai.com/blog/adversarial-example-research/)
+- speed at eBay: [Shopping for speed on eBay.com](https://web.dev/shopping-for-speed-on-ebay/?utm_medium=email-d&utm_source=newsletter&utm_team=googledevs&utm_campaign=2020-02-eng&utm_content=article6&mkt_tok=eyJpIjoiTkRNNVlUa3dabVk1Wm1JNCIsInQiOiJ1bGJYRDltaklHaDRSZHB1a2VvRUMzQjB1cHljaWNCRm1pRlJzalRFOGlORW5zbVJ2Tm9HMEpNRmZCcUdYemc5QlZXM1JWTGgrWURLRnZvNStiMzlIdGQwXC9RQ280bFJnTGtnMWhnZk5IM1wvQ1RoN2pPS3F2QUgrekhhSVVIcE11In0%3D)
+- fast book: [GitHub - fastai/fastbook: Draft of the fastai book](https://github.com/fastai/fastbook)
+- react vs vue: [I created the exact same app in React and Vue. Here are the differences.](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
+- ml for youtube views: [How to Get MORE YouTube Views with Machine Learning techniques | Towards Data Science](https://towardsdatascience.com/how-to-get-more-youtube-views-with-machine-learning-techniques-9e7000f6fcf7)
+- github actions: [How to write good quality Python code with GitHub Actions](https://medium.com/@wkrzywiec/how-to-write-good-quality-python-code-with-github-actions-2f635a2ab09a)
+- Live about: [About Us](https://www.liveabout.com/about-us)
+- Harvard Design school: [Practice Archives - Page 2 of 10 - Harvard Graduate School of Design](https://www.gsd.harvard.edu/topic/practice/page/2/)
+
+
+
+---
+### Papers
+
++ Satellite based Internet: [Fermat’s Library | Satellite-Based Internet: A Tutorial annotated/explained version.](https://fermatslibrary.com/s/satellite-based-internet-a-tutorial#email-newsletter)
+- Optimacal Insights into reinessance art: [Fermat’s Library | Optical Insights into Renaissance Art annotated/explained version.](https://fermatslibrary.com/s/optical-insights-into-renaissance-art#email-newsletter)
+- Cognitive Load Theory: http://nschwartz.yourweb.csuchico.edu/Moreno%20CLT%20Response%20to%20de%20Jong.pdf
+- On Twins: [Fermat’s Library | An Explanation of Twins annotated/explained version.](https://fermatslibrary.com/s/an-explanation-of-twins#email-newsletter)
+- - [Fermat’s Library | The Environment and Disease: Association or Causation? annotated/explained version.](https://fermatslibrary.com/s/the-environment-and-disease-association-or-causation#email-newsletter)
+- - [Fermat’s Library |  Search for Artificial Stellar Sources of Infrared Radiation annotated/explained version.](https://www.fermatslibrary.com/s/search-for-artificial-stellar-sources-of-infrared-radiation#email-newsletter)
+- [Fermat’s Library | Three Early Algorithms annotated/explained version.](https://fermatslibrary.com/s/three-early-algorithms#email-newsletter)
+- Uncertainty Visualization: http://space.ucmerced.edu/Downloads/publications/Uncertainty_Visualization_Padilla_Kay_Hullman_2020.pdf?utm_campaign=Data_Elixir&utm_source=Data_Elixir_283
+- On electrons: [Fermat’s Library | The Ratio of Proton and Electron Masses annotated/explained version.](https://fermatslibrary.com/s/the-ratio-of-proton-and-electron-masses#email-newsletter)
+- Women’s inequality in science  [Fermat’s Library | Historical comparison of gender inequality in scientific careers across countries and disciplines annotated/explained version.](https://fermatslibrary.com/s/historical-comparison-of-gender-inequality-in-scientific-careers-across-countries-and-disciplines#email-newsletter)
+- Trigonometric functions in Apollo 11: [Fermat’s Library | Apollo 11 implementation of Trigonometric functions annotated/explained version.](https://fermatslibrary.com/s/apollo-11-implementation-of-trigonometric-functions#email-newsletter)
+- “A Long History of a Short Block. Four Centuries of Development Surprises on a Single Stretch of a New York City Street”. This paper covers the economic history of one single block in NYC (Greene street between Houston and Prince) over four centuries, tracking its development trajectory from when it was farmland, to a brothel district, to a textile manufacturing hub, to an artist residential block, to a trendy shopping block. [Fermat’s Library | A Long History of a Short Block: Four Centuries of Development Surprises on a Single Stretch of a New York City Street annotated/explained version.](https://fermatslibrary.com/s/a-long-history-of-a-short-block-four-centuries-of-development-surprises-on-a-single-stretch-of-a-new-york-city-street#email-newsletter)
+- Serendipitous browsing: https://www.researchgate.net/publication/241623251_The_Bohemian_Bookshelf_Supporting_Serendipitous_Book_Discoveries_through_Information_Visualization
+- Serendipity in the stacks: https://pdfs.semanticscholar.org/6405/d717b71b38531f3aabc0c42bbfe7a12172de.pdf
+- [Serendipitous Discovery: Is it Getting Harder? | From the Bell Tower | Library Journal](https://www.libraryjournal.com/?detailStory=serendipitous-discovery-is-it-getting-harder-from-the-bell-tower)
+- Computing without Computers: [(PDF) Computing Without Computers | John Frazer - Academia.edu](https://www.academia.edu/6147437/Computing_Without_Computers)
+- weather prediction by numerical properties” https://maths.ucd.ie/~plynch/Dream/Proofs/0521857295c01_p1-28.pdf
+
+* *Big Ideas*
+	* “/The Limits to Growth/“ by Vaclav Smil
+	* Fast Forward Labs: [Interpretability 2020](https://ff06-2020.fastforwardlabs.com/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_282)
+	*  [The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html?utm_source=morning_brew)
+	*  [Why Procrastinators Procrastinate](https://waitbutwhy.com/2013/10/why-procrastinators-procrastinate.html?utm_source=morning_brew)
+	*  [The Coddling of the American Mind](https://www.theatlantic.com/magazine/archive/2015/09/the-coddling-of-the-american-mind/399356/?utm_source=morning_brew)
+	* [The free will theorem](https://arxiv.org/abs/quant-ph/0604079)
+	* Heads of tails: [Fermat’s Library | Heads or Tails: The Impact of a Coin Toss on Major Life Decisions and Subsequent Happiness annotated/explained version.](https://fermatslibrary.com/s/heads-or-tails-the-impact-of-a-coin-toss-on-major-life-decisions-and-subsequent-happiness#email-newsletter)
+	* [Fermat’s Library | The Two Cultures annotated/explained version.](https://fermatslibrary.com/s/the-two-cultures#email-newsletter) - divide between humanities and science
+	+ Ponytail motion [Fermat’s Library | Ponytail Motion annotated/explained version.](https://fermatslibrary.com/s/ponytail-motion#email-newsletter)
+* *Business Strategy*
+	*  [4-Part series on Elon Musk, Tesla, and SpaceX](https://waitbutwhy.com/2015/05/elon-musk-the-worlds-raddest-man.html?utm_source=morning_brew)
+	*  [1,000 True Fans? Try 100](https://a16z.com/2020/02/06/100-true-fans/?utm_source=morning_brew)
+	*  [Debt is Coming](https://alexdanco.com/2020/02/07/debt-is-coming/?utm_source=morning_brew)
+* *More*
+	*  [Peter Thiel’s Religion](https://www.perell.com/blog/peter-thiel?utm_source=morning_brew)
+	*  [Three Big Things: The Most Important Forces Shaping the World](https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-shaping-the-world/?utm_source=morning_brew)
+	*  [Neither, and New: Lessons from Uber and Vision Fund](https://stratechery.com/2019/neither-and-new-lessons-from-uber-and-vision-fund/?utm_source=morning_brew)
+
+- All of Statistics: Course on Statistical Inference: https://link.springer.com/content/pdf/10.1007%2F978-0-387-21736-9.pdf
+- Numerical Optimization: https://link.springer.com/content/pdf/10.1007%2F978-0-387-40065-5.pdf
+
+- Google books: [Explorer’s Guide Hudson Valley & Catskill Mountains: Includes Saratoga … - Joanne Michaels - Google Books](https://books.google.com/books?id=mQ1PEN1S4aAC&pg=PA502&lpg=PA502&dq=design+guide+to+putnam+valley&source=bl&ots=TKKdMXx8QN&sig=ACfU3U0mE4hxG0ySdP0p75tEtviHm-z72A&hl=en&sa=X&ved=2ahUKEwjfu4acuIvqAhU9mXIEHXlMDb0Q6AEwCXoECAwQAQ#v=onepage&q=design%20guide%20to%20putnam%20valley&f=false)
+
+---
 ### Read
 + [Frank Chimero · Writing](https://frankchimero.com/writing/) - read essays for inspiration [Frank Chimero · Home](https://frankchimero.com/)
 + [7 Reasons to Use Parchment Paper | The Pioneer Woman](https://thepioneerwoman.com/food-and-friends/7-reasons-to-use-parchment-paper/)
@@ -497,6 +667,7 @@ file:///Users/anna.nicanorova/Downloads/SSRN-id3432728.pdf
 + [A History of Creative Coding - Blair Neal - Medium](https://medium.com/@laserpilot/a-history-of-creative-coding-8771524b9775)
 + [Chindogu: Those Viral Japanese Inventions](https://www.tofugu.com/japan/chindogu-japanese-inventions/)
 + [The Pandemic is Making the Suburbs Even More Appealing - The Atlantic](https://www.theatlantic.com/technology/archive/2020/06/pandemic-suburbs-are-best/613300/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits) -> but why is it spreading there?
++ + Self isolation of south Koreans: [Tune in, drop out - Rest of World](https://restofworld.org/2020/south-korea-honjok-loneliness/?utm_source=Rest+of+World+Newsletter&utm_campaign=0cd408a8bf-EMAIL_CAMPAIGN_2020_10_08_04_19&utm_medium=email&utm_term=0_b91e039431-0cd408a8bf-410360003)
 + [Americans Don’t Get How Badly They’re Handling COVID-19 - The Atlantic](https://www.theatlantic.com/ideas/archive/2020/07/america-land-pathetic/613747/)
 + [Turning Your Backyard Into a Vacation Spot - The New York Times](https://www.nytimes.com/2020/05/22/realestate/turning-your-backyard-into-a-vacation-spot.html)
 + Suburbs may not be able to sustain themselves: [“Strong Towns” Argues That Urban Sprawl is a Financial Loser for Communities.](https://www.city-journal.org/modern-suburban-development)
@@ -869,3 +1040,16 @@ https://www.fuud.me/qr-codes/
 + + WHO China: https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf
 + [Why do so few people major in computer science? | Dan Wang](http://danwang.co/why-so-few-computer-science-majors/)
 + [Teach Yourself Programming in Ten Years](http://www.norvig.com/21-days.html) - teach yourself in more time
++ [All NYC Businesses Closed During 2020 COVID-19 Pandemic](https://www.curbed.com/article/nyc-businesses-closed-2020-pandemic.html)
++ [Spite-Watching the Rent Fall on Your Old NYC Apartment](https://www.curbed.com/2020/12/nyc-rent-apartments-coronavirus-vacant.html)
++ [Elon Musk Heads to Texas; Californians Don’t Seem To Mind](https://www.curbed.com/2020/12/elon-musk-texas-california-move.html)
++ [14 tech trends to watch in 2021 – Rest of World](https://restofworld.org/2020/14-tech-trends-to-watch-in-2021/?utm_source=Rest+of+World+Newsletter&utm_campaign=b861cd67b0-EMAIL_CAMPAIGN_2020_12_10_08_48&utm_medium=email&utm_term=0_b91e039431-b861cd67b0-410360003)
++ [Google Employees Call Black Scientist’s Ouster ‘Research Censorship’ : NPR](https://www.npr.org/2020/12/03/942417780/google-employees-say-scientists-ouster-was-unprecedented-research-censorship)
++ http://www.ub.edu/valors/Estilos%20UB/imatges/Documents/The%20stupidity%20of%20dignity.pdf - the stupidity of dignity
++ + [Human languages vs. Programming languages | by Ana Harris | Medium](https://medium.com/@anaharris/human-languages-vs-programming-languages-c89410f13252)
++ [E.W.Dijkstra Archive: Home page](https://www.cs.utexas.edu/users/EWD/)
++ [The Man Who Carried Computer Science on His Shoulders | Articles | Inference: International Review of Science](https://inference-review.com/article/the-man-who-carried-computer-science-on-his-shoulders)
++ + Why we need humanities: [Collections: The Practical Case on Why We Need the Humanities – A Collection of Unmitigated Pedantry](https://acoup.blog/2020/07/03/collections-the-practical-case-on-why-we-need-the-humanities/)
++ Desktop wind tunnel - so cool: [YouTube](https://www.youtube.com/watch?v=Sx5BQjKvElk)- watch at minute 1:57
++ [Stop using df.iterrows(). This morning I came across an article… | by Rodrigo Silveira | Medium](https://medium.com/@formigone/stop-using-df-iterrows-2fbc2931b60e)
+- the bandwagon by Shannon [Fermat’s Library | The Bandwagon  annotated/explained version.](https://fermatslibrary.com/s/the-bandwagon#email-newsletter)

@@ -1,0 +1,14 @@
+{
+  "name": "c7b0f65ea895c0a0",
+  "main": "c7b0f65ea895c0a0@93.js",
+  "version": "93.0.0",
+  "homepage": "https://observablehq.com/d/c7b0f65ea895c0a0",
+  "author": {
+    "name": "annanican",
+    "url": "https://observablehq.com/@annanican"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
