@@ -1,6 +1,6 @@
 # Untitled
 
-https://observablehq.com/d/c7b0f65ea895c0a0@142
+https://observablehq.com/@annanican/accidental-reading@190
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -21,7 +21,7 @@ Then, import your notebook and the runtime as:
 
 ~~~js
 import {Runtime, Inspector} from "@observablehq/runtime";
-import define from "c7b0f65ea895c0a0";
+import define from "@annanican/accidental-reading";
 ~~~
 
 To log the value of the cell named “foo”:
